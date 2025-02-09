@@ -1,0 +1,10 @@
+img {
+    width: 500px;
+}
+body{
+    text-align: center;
+    font-family: 'Garamond';
+    font-size: 50px;
+    background-color: white;
+    color: rgb(255, 80, 80);
+}
